@@ -1,0 +1,10 @@
+//
+//  test.pch
+//  FmdbTest
+//
+//  Created by hsbc on 15/3/31.
+//  Copyright (c) 2015年 hsbc. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
